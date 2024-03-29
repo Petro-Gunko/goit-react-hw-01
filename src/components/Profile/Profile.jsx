@@ -1,9 +1,8 @@
-import css from "./Profile.module.css"
-
+import css from './Profile.module.css';
 
 export default function Profile({ username, tag, location, avatar, stats }) {
   const { followers, views, likes } = stats;
- 
+
   return (
     <div className={css.container}>
       <div>

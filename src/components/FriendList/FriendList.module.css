@@ -1,6 +1,6 @@
-.container{
-    padding: 40px 0;
-    display: flex;
-    list-style-type: none;
-    justify-content: space-between;
+.container {
+  padding: 40px 0;
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
 }
